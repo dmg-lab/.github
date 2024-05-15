@@ -17,5 +17,5 @@ Most code will be developed either for the [polymake](https://polymake.org) or
 - [Computing-lines-on-tropical-cubic-surfaces](https://github.com/dmg-lab/Computing-lines-on-tropical-cubic-surfaces)
 - [fair-phylogenetic-trees](https://github.com/dmg-lab/fair-phylogenetic-trees)
 - [parsing-topcom-triangulations](https://github.com/dmg-lab/parsing-topcom-triangulations) This repository contains various scripts for parsing the output of TOPCOM or mptopcom.
-- [JohnsonSrc](https://github.com/dmg-lab/JohnsonSrc) Code used for generating precise Johnson Solids
+- [RegularSolidsSrc](https://github.com/dmg-lab/JohnsonSrc) Code used for generating precise Johnson Solids, Archimedean Solids and Catalan Solids
 </details>
